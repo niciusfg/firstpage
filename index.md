@@ -6,6 +6,8 @@ I'm currently studying Web Development at [Cornestone College](https://ciccc.ca/
 I also have a blog where share some informations about my trips aroud the world. 
 You check it out [Vini no Mundo](https://vininomundo.com.br/)
 
+![Image](vini.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -27,7 +29,6 @@ Syntax highlighted code block
 
 ```
 
-![Image](vini.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
