@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my personal Page
 
-Teste use the [editor on GitHub](https://github.com/niciusfg/firstpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Vini Guimaraes, from Sao Paulo Brazil.
+I'm currently studying Web Development at [Cornestone College](https://ciccc.ca/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also have a blog where share some informations about my trips aroud the world. 
+You check it out [Vini no Mundo](https://vininomundo.com.br/)
 
 ### Markdown
 
